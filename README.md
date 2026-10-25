@@ -1,4 +1,4 @@
-# Arduino Ultrasonic Radar Scanner
+# Arduino Ultrasonic Radar Scanner 
 
 An Arduino Uno R3, HC-SR04 ultrasonic sensor, and SG90 servo create a radar-style scanner. The Arduino sweeps the sensor, measures distance, and sends angle/distance records over USB serial. A Processing sketch reads those records and draws a radar-style display on the computer.
 
